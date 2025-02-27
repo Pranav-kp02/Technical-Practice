@@ -1,0 +1,33 @@
+.header {
+  text-align: center;
+}
+.form {
+  display: flex;
+  justify-content: center;
+}
+.displayTask {
+  display: flex;
+  justify-content: center;
+}
+.deleteBtn {
+  padding: 5px;
+  margin: 8px;
+  border-radius: 50px;
+  border: none;
+  background-color: red;
+}
+.compBtn {
+  padding: 5px;
+  margin: 8px;
+  border-radius: 50px;
+  border: none;
+  background-color: green;
+}
+.line-over {
+  text-decoration: line-through;
+}
+.fillButtons {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}

@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.inputBox {
+  padding: 5px;
+  width: 300px;
+}
+
+.dropdown {
+  border: 1px solid black;
+  margin: auto;
+  width: 300px;
+  text-align: left;
+  max-height: 500px;
+  overflow-y: auto;
+}
+.items {
+  display: block;
+  padding: 15px;
+  cursor: pointer;
+}
+.items:hover {
+  background-color: antiquewhite;
+  padding: 15px;
+}
