@@ -1,0 +1,15 @@
+.heading-container {
+  display: flex;
+}
+.heading {
+  padding: 5px;
+  border: 1px solid snow;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.tab-body {
+  border: 1px solid snow;
+  height: 300px;
+  padding: 5px;
+}
